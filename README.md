@@ -143,4 +143,3 @@ ramp-test --submission starting_kit
 
 [Using RAMP starting-kits](https://paris-saclay-cds.github.io/ramp-docs/ramp-workflow/stable/using_kits.html)
 # brain_anatomy_schizophrenia
-# brain_anatomy_schizophrenia
